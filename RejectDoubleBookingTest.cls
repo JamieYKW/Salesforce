@@ -1,5 +1,5 @@
 @isTest
-public class TestRejectDoubleBooking 
+public class RejectDoubleBookingTest 
 {
     
     static testmethod void TestSingleBooking() {
