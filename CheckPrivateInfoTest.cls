@@ -1,5 +1,5 @@
 @isTest
-private class CheckSecretInfoTest {
+private class CheckPrivateInfoTest {
 	
 	@isTest static void createCaseWithSecretInfo() {
 		Case myCase = new Case();
